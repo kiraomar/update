@@ -1,11 +1,9 @@
 {
-"version": "18.5.0",
-"title": "تحديث جديد!",
-"NewVersion": " ",
-"downloadLink": "https://t.me/kr_kr1/12081",
-"changeLogMessage": "الرجاء التحديث لتفعيل الميزات الجديدة.
-",
-"negativebtn": "لاحقاً",
-"positivebtn": "تحديث",
-"changelogTitle": " "
+  "status": true,
+  "new_version": "2.1.5",
+  "dialog_data": {
+    "title": "تحديث هونيستا",
+    "download_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "whats_new": "واجهة جديدة كليًا\nتحسين التشفير من طرف إلى طرف\nمشاركة الوسائط بسرعة أكبر\nإصلاحات للأخطاء وتحسينات في الاستقرار"
+  }
 }
